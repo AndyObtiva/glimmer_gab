@@ -46,7 +46,7 @@
               body_root.center_within_display
             }
           
-            browser {
+            browser(OS.linux? ? :chromium : :none) {
               url "https://gab.com"
             }
             
