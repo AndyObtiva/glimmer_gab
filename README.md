@@ -8,7 +8,7 @@ The app remembers your logged in user if you close and open again.
 
 ## Download
 
-[<img alt="Glimmer Gab Logo" src="package/linux/Glimmer Gab.png" height=42 /> Download Glimmer Gab on the Mac](https://www.dropbox.com/s/etzckmepthgwjj2/Glimmer%20Gab-1.0.0.dmg?dl=1)
+[<img alt="Glimmer Gab Logo" src="package/linux/Glimmer Gab.png" height=42 /> Download Glimmer Gab for the Mac](https://www.dropbox.com/s/etzckmepthgwjj2/Glimmer%20Gab-1.0.0.dmg?dl=1) (Big Sur and older)
 [![Glimmer Gab Mac](screenshots/glimmer-gab-mac.png)](https://www.dropbox.com/s/etzckmepthgwjj2/Glimmer%20Gab-1.0.0.dmg?dl=1)
 
 ## Install & Usage
